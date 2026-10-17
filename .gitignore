@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local FAISS index & binary vector stores
+*.index
+faiss_index.index
+
+# Document uploads (prevent accidentally leaking private PDFs)
+# Exception: Lumina Project Infographic is part of the repository documentation
+*.pdf
+!Lumina Project Infographic.pdf
+
+# Secrets, environment variables & credentials
+.env
+.env.*
+secrets.json
+api_key.txt
+*.key
+*.token
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch and temp files
+scratch/
+.system_generated/

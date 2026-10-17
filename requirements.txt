@@ -1,0 +1,8 @@
+# Lumina — AI Study Assistant
+# Core RAG Pipeline Dependencies
+
+google-generativeai>=0.8.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+pypdf>=5.0.0
+numpy>=1.24.0

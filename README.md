@@ -27,10 +27,10 @@ Standard Large Language Models often produce ungrounded answers or hallucination
 ## 🖼️ System Infographic & Architecture
 
 <p align="center">
-  <img src="screenshots/demo.png" alt="Lumina Project Infographic" width="850"/>
+  <img src="assets/lumina_infographic.png" alt="Lumina Project Infographic" width="850"/>
 </p>
 
-> *The full vector infographic is available in the repository as [`Lumina Project Infographic.pdf`](Lumina%20Project%20Infographic.pdf).*
+> *The original vector infographic is available in the repository as [`Lumina Project Infographic.pdf`](Lumina%20Project%20Infographic.pdf).*
 
 ### Architecture Diagram
 
